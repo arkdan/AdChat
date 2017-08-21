@@ -1,5 +1,5 @@
 github "arkdan/ARKExtensions" "uikit"
-#github "realm/realm-cocoa" ~> 2.8
-#github "ReactiveCocoa/ReactiveSwift" ~> 1.1
-#github "ReactiveCocoa/ReactiveCocoa" ~> 6.0
-#github "Alamofire/Alamofire" ~> 4.4
+github "realm/realm-cocoa" ~> 2.8
+github "ReactiveCocoa/ReactiveSwift" ~> 1.1
+github "ReactiveCocoa/ReactiveCocoa" ~> 6.0
+github "Alamofire/Alamofire" ~> 4.4
