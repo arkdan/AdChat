@@ -1,0 +1,10 @@
+framework module UIKitExtensions {
+  umbrella header "UIKitExtensions.h"
+
+  export *
+  module * { export * }
+}
+
+module UIKitExtensions.Swift {
+    header "UIKitExtensions-Swift.h"
+}
